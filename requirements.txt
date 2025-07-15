@@ -1,0 +1,16 @@
+# PDF Parsing Tools Dependencies
+
+# Marker - Local PDF to Markdown conversion
+marker-pdf
+
+# Docling - Multi-format document parsing
+docling
+
+# LlamaParse - Cloud-based AI parsing
+llama-cloud-services
+python-dotenv
+nest-asyncio
+
+# Optional: GPU support (uncomment if needed)
+# torch[cuda]  # For NVIDIA GPUs  
+# torch[mps]   # For Apple Silicon GPUs 
